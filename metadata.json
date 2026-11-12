@@ -1,0 +1,6 @@
+{
+  "name": "Student Attendance Report",
+  "description": "Authentic academic portal replica for the Student Attendance Report system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
